@@ -6,7 +6,7 @@ Cyclistic Bike-Share Case Study 🚲 Data analysis of Cyclistic's bike-sharing s
 This case study was conducted as part of the **Google Data Analytics Certificate**. The goal is to analyze **Cyclistic’s bike-sharing data** and identify key insights to help convert casual riders into annual members.  
 
 🔹 **Tools Used:** Excel, Power Query  
-🔹 **Data Source:** [Divvy Bike Data (2024)](https://divvy-trip-data-link.com)  
+🔹 **Data Source:** [Divvy Bike Data (2024)]([https://divvy-trip-data-link.com](https://divvy-tripdata.s3.amazonaws.com/index.html))  
 🔹 **Key Insights:**  
 ✔️ Casual riders prefer weekends & longer rides  
 ✔️ Annual members commute more & ride during rush hours  
@@ -31,6 +31,19 @@ The folder contains:
    
     - ## 📢 Conclusion
     - The data suggests that **casual riders primarily use Cyclistic for recreational purposes**, whereas **annual members rely on it for commuting**. A targeted marketing strategy should focus on **offering incentives to casual riders** who frequently use the service, encouraging them to convert into annual members.
+   
+    - ## 📢 Recommendations  
+### 🎯 General Improvements  
+- Optimize station placement to cater to different user needs (e.g., tourist-heavy areas vs. commuting routes).  
+
+### 🌟 Strategies to Convert Casual Riders  
+- Introduce **seasonal promotions** to attract more users during winter.  
+- Offer **weekly or weekday passes** to encourage regular usage outside of weekends.  
+- Expand **electric bike availability**, as they are popular among casual users.  
+
+### 🚴‍♂️ For Annual Members  
+- Improve **bike availability** at key commuter hours to meet demand.  
+- Maintain a strong network of **classic bikes**, as they remain the preferred option for members.
    
     - ---
     📩 **Contact:** If you have any questions or suggestions, feel free to reach out! 😊
