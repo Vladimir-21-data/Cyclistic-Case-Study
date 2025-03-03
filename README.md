@@ -6,7 +6,7 @@ Cyclistic Bike-Share Case Study 🚲 Data analysis of Cyclistic's bike-sharing s
 This case study was conducted as part of the **Google Data Analytics Certificate**. The goal is to analyze **Cyclistic’s bike-sharing data** and identify key insights to help convert casual riders into annual members.  
 
 🔹 **Tools Used:** Excel, Power Query  
-🔹 **Data Source:** [Divvy Bike Data (2024)](https://divvy-tripdata.s3.amazonaws.com/index.html) 
+🔹 **Data Source:** [Divvy Bike Data (2024)](https://divvy-tripdata.s3.amazonaws.com/index.html)  
 🔹 **Key Insights:**  
 ✔️ Casual riders prefer weekends & longer rides  
 ✔️ Annual members commute more & ride during rush hours  
